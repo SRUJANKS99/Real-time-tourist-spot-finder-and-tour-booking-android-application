@@ -1,38 +1,27 @@
-# 📍 Real-time Tourist Spot Finder & Tour Booking Android App
+# 📍 Tourify - Real-time Tourist Spot Finder & Tour Booking App
 
-## 📱 Overview
-
-This Android application helps users discover tourist spots in real-time using GPS and book guided tours directly through the app. Designed to enhance travel convenience, the app integrates live location, maps, and Firebase services.
+Tourify is a real-time Android app that helps travelers discover nearby tourist destinations using GPS and book curated tours directly. Built using Java and Firebase, it’s a complete travel companion for users and an easy management tool for tour organizers.
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- 🗺️ Real-time tourist spot discovery via location services
-- 📍 Google Maps integration for directions
-- 🔐 Secure Firebase authentication (Sign Up/Login)
-- 📅 Tour booking with schedule management
-- 🧑‍💼 Admin dashboard to manage spots and bookings
-- 🧾 View booking history
-- 📷 Upload images for spots (Admin)
-- ⭐ Spot ratings and reviews (optional)
+- 🗺️ Real-time location-based tourist spot discovery
+- 🗂️ Tour listing with images, prices & details
+- 🧭 Google Maps integration for directions
+- 🔐 Firebase Authentication (Login / Signup)
+- 📅 Booking system with confirmation
+- 🧑‍💼 Admin dashboard for managing spots & bookings
+- 🖼️ Upload images to Firebase Storage
+- ⭐ Ratings & reviews (optional enhancement)
 
 ---
 
 ## 📸 Screenshots
 
-> _Replace the URLs below with your image links (GitHub or external)_
-
-| Home Screen | Spot List | Booking Page | Maps Integration |
-|-------------|-----------|---------------|------------------|
-|![login](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/WhatsApp Image 2025-06-23 at 12.09.00_351b824b.jpg)
-![Register Screen](https://raw.githubusercontent.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/main/WhatsApp%20Image%202025-06-23%20at%2012.09.00_351b824b.jpg)
-
-| ![Home](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/home.png) |
- ![List](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/list.png) 
-
-| ![Booking](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/booking.png) 
-| ![Map](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/map.png) |
+| **Login / Register** | **Home Screen** | **Tour Details** | **Booking Page** |
+|----------------------|------------------|-------------------|------------------|
+| ![Login](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/blob/main/WhatsApp%20Image%202025-06-23%20at%2012.09.00_351b824b.jpg?raw=true) | ![Home](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/blob/main/WhatsApp%20Image%202025-06-23%20at%2012.08.59_88187026.jpg?raw=true) | ![Tour](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/blob/main/WhatsApp%20Image%202025-06-23%20at%2012.08.59_ee16e17e.jpg?raw=true) | ![Booking](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/blob/main/WhatsApp%20Image%202025-06-23%20at%2012.08.58_9909291c.jpg?raw=true) |
 
 ---
 
@@ -40,11 +29,12 @@ This Android application helps users discover tourist spots in real-time using G
 
 - **Frontend:** Java, XML Layouts
 - **Backend:** Firebase (Auth, Firestore, Storage)
-- **Libraries:** Google Maps SDK, Glide, Material Components
+- **APIs:** Google Maps SDK
+- **Libraries:** Glide, Material Components
 
 ---
 
-## 🚀 Setup Instructions
+## ⚙️ How to Run Locally
 
 1. **Clone the Repository**
    ```bash
