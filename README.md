@@ -1,56 +1,44 @@
-# ✈️ Tourify – Real-time Tourist Spot Finder & Tour Booking App
+# 📍 Real-time Tourist Spot Finder & Tour Booking Android App
 
-**Tourify** is a modern Android travel application that helps users discover and book curated tour packages across India. It provides a user-friendly booking flow, real-time location support, and regional tour guides all within a beautiful UI.
+## 📱 Overview
 
----
-
-## 📱 App Screenshots
-
-### 🧭 Home Screen
-Showcases popular state-wise tours:  
-![India Tour](screenshots/india-tour.png)
-
-### 📍 Tour Listings
-List of available tours with images, prices, and dates:  
-![Tour List](screenshots/tour-list.png)
-
-### 🧾 Tour Details Page
-Detailed overview with pricing, tour code, vehicle info, and departure dates:  
-![Tour Details](screenshots/tour-detail.png)
-
-### 🧑‍🤝‍🧑 Booking Form
-Simple form to book a selected tour package:  
-![Booking Form](screenshots/booking-form.png)
-
-### 📂 Navigation Drawer
-Quick access to different sections like Blog, Location, About Us:  
-![Sidebar Menu](screenshots/sidebar.png)
+This Android application helps users discover tourist spots in real-time using GPS and book guided tours directly through the app. Designed to enhance travel convenience, the app integrates live location, maps, and Firebase services.
 
 ---
 
 ## ✨ Features
 
-- 🔍 Discover tourist packages by region (Karnataka, Kerala, Goa, etc.)
-- 📅 View detailed itineraries, prices, and departure dates
-- 🛎️ Book tours easily with flexible adult/child pricing
-- 🔄 Unlimited date changes for bookings (terms apply)
-- 🧭 Clean UI with navigation drawer
-- 🚍 Display of used vehicles and departure locations
+- 🗺️ Real-time tourist spot discovery via location services
+- 📍 Google Maps integration for directions
+- 🔐 Secure Firebase authentication (Sign Up/Login)
+- 📅 Tour booking with schedule management
+- 🧑‍💼 Admin dashboard to manage spots and bookings
+- 🧾 View booking history
+- 📷 Upload images for spots (Admin)
+- ⭐ Spot ratings and reviews (optional)
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Screenshots
 
-- **Frontend:** Android (Java / Kotlin)
-- **Backend:** Firebase or REST API (if applicable)
-- **Database:** Firebase Realtime DB / SQLite
-- **Maps & Location:** Google Maps API
-- **IDE:** Android Studio
+> _Replace the URLs below with your image links (GitHub or external)_
+
+| Home Screen | Spot List | Booking Page | Maps Integration |
+|-------------|-----------|---------------|------------------|
+| ![Home](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/home.png) | ![List](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/list.png) | ![Booking](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/booking.png) | ![Map](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/map.png) |
 
 ---
 
-## 🚀 Getting Started
+## 🛠 Tech Stack
 
-1. Clone the repository:
+- **Frontend:** Java, XML Layouts
+- **Backend:** Firebase (Auth, Firestore, Storage)
+- **Libraries:** Google Maps SDK, Glide, Material Components
+
+---
+
+## 🚀 Setup Instructions
+
+1. **Clone the Repository**
    ```bash
    git clone https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application.git
