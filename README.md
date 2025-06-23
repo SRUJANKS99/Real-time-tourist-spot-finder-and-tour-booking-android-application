@@ -26,6 +26,8 @@ This Android application helps users discover tourist spots in real-time using G
 | Home Screen | Spot List | Booking Page | Maps Integration |
 |-------------|-----------|---------------|------------------|
 |![login](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/WhatsApp Image 2025-06-23 at 12.09.00_351b824b.jpg)
+![Register Screen](https://raw.githubusercontent.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/main/WhatsApp%20Image%202025-06-23%20at%2012.09.00_351b824b.jpg)
+
 | ![Home](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/home.png) |
  ![List](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application/assets/list.png) 
 
